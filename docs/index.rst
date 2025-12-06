@@ -2,6 +2,12 @@
 How to Login Big Fish Games Account?
 ===========================================
 
+.. image:: login-now.gif
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://gamesbigfish.support/login.html
+
 Big Fish Games is a well-known gaming platform that attracts millions of players who enjoy casual, puzzle, and adventure-based games. Whether you are a long-time player or a newcomer, logging into your Big Fish Games account is the key to unlocking a world full of interactive entertainment. From mystery-solving titles to match-three puzzles and time-management adventures, your Big Fish Games account connects you to a universe of endless fun.
 
 If you’re wondering how to log in to your Big Fish Games account, this detailed guide will walk you through everything you need to know. We’ll explore the process step by step, discuss troubleshooting methods, and share useful tips to keep your account safe and accessible.  
